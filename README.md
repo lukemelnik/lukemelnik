@@ -7,7 +7,7 @@ I'm a full-stack developer. I'm pathologically curious and I love to build. Curr
 ## What I'm Up To:
 
 - I'm focused on learning the deeper parts of JavaScript
-- I built an AI-powered spaced repetition app called [Foremeber](https://forember-9vyt.vercel.app/)
+- I built an AI-powered spaced repetition app called [Forember](https://forember-9vyt.vercel.app/)
 - [I built a personal site](https://lukemelnik.co) and I'm blogging about what I learn. It's been awesome to explore self-hosting with Coolify and it got me started with Docker.
 
 ## What I'd Like to Dive Deeper Into
