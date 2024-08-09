@@ -2,7 +2,7 @@
 
 ## About Me:
 
-I'm a full-stack developer. I'm relentlessly curious and I love to build. Currently, I'm focusing on JavaScript (TypeScript), Node.js, React (Next.js), and PostgreSQL. Before becoming a developer I studied Mechanical Engineering at Queen's University and spent a decade in the music industry as a producer, artist and audio engineer. If you're feeling saucy [you can have a listen here 💿.](https://open.spotify.com/artist/4musCItyvLBJYaHClwbTLd?si=NCpM9u4rQYOr48VPs6TBvA). You can reach me at [luke@lukemelnik.co](mailto:luke@lukemelnik.co). 
+I'm a full-stack developer. I'm relentlessly curious and I love to build. Currently, I'm focusing on JavaScript (TypeScript), Node.js, React (Next.js), and PostgreSQL. Before becoming a developer I studied Mechanical Engineering at Queen's University and spent a decade in the music industry as a producer, artist and audio engineer. [Have a listen here 💿](https://open.spotify.com/artist/4musCItyvLBJYaHClwbTLd?si=NCpM9u4rQYOr48VPs6TBvA) if you're feeling saucy. You can reach me at [luke@lukemelnik.co](mailto:luke@lukemelnik.co). 
 
 ## What I'm Up To:
 
