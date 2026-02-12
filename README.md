@@ -4,7 +4,7 @@ Fullstack developer based in London, Canada. I studied Mechanical Engineering at
 
 ## What I'm building
 
-**Songkeeper** — a music production management platform for producers, mixers, and artists. Think of it as the project management tool the music industry never had. Currently in beta.
+**[Songkeeper](https://songkeeper.io)** — a music production management platform for producers, mixers, and artists. Think of it as the project management tool the music industry never had. Currently in beta.
 
 - Monorepo (Turborepo + pnpm) with a TypeScript API (Hono + tRPC + Drizzle), React frontend (TanStack Start/Router/Query), and native iOS app (SwiftUI)
 - PostgreSQL, background job processing, structured logging, email notification system
