@@ -18,6 +18,7 @@ I built this because after years of managing sessions, splits, releases, and con
 ## Other projects
 
 - **[Colorkeeper](https://github.com/lukemelnik/colorkeeper)** — a native macOS color picker and palette manager. Pick colors from anywhere on screen, organize into palettes, check WCAG contrast, visualize color roles, and export to 10+ formats. Built with SwiftUI, Swift 6, no external dependencies.
+- **[Grove](https://github.com/lukemelnik/grove)** — a CLI for git worktrees with automatic port assignments, layered env files, and tmux workspace management. Built in Go, designed for monorepo and agent workflows.
 - **[langueflow](https://github.com/lukemelnik/langueflow)** — a language learning app with AI-powered journaling, stories, and articles. Built with Next.js, tRPC, Drizzle, and OpenAI. This is where I learned the value of repository patterns and clean code organization.
 - **[agent-skills](https://github.com/lukemelnik/agent-skills)** — my custom skills and config for AI coding agents (Claude Code, Gemini CLI, etc.). I'm constantly experimenting with better workflows for orchestrating agents, especially by customizing tmux.
 - **[monorepo-worktrees](https://github.com/lukemelnik/monorepo-worktrees)** — patterns and scripts for running multiple git worktrees of a monorepo simultaneously with automatic port isolation and tmux workspace setup.
