@@ -13,6 +13,8 @@ Fullstack developer based in London, Canada. I studied Mechanical Engineering at
 
 I built this because after years of managing sessions, splits, releases, and contacts across spreadsheets and DMs, I wanted something purpose-built. Managing music royalties and submitting to the various organizatiosn is particularly awful so I'm working towards automating the entire process.
 
+**[Vocal Dojo](https://vocaldojo.app)** — a vocal warmup app for singers, voice actors, and anyone who uses their voice professionally. Native iOS app with a built-in piano sampler, 30 exercise patterns, and a music theory engine for generating exercises in any key. Built with SwiftUI, AVFoundation, and GRDB/SQLite — no backend, everything runs locally on device.
+
 **[lukeroes](https://github.com/lukemelnik/lukeroes)** — my artist website, built with TanStack Start. It consumes the Songkeeper API via a generated OpenAPI SDK, so release data flows directly from the production management platform to the public-facing site.
 
 ## Other projects
