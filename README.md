@@ -15,7 +15,7 @@ I built this because after years of managing sessions, splits, releases, and con
 
 **[Vocal Dojo](https://vocaldojo.app)** — a vocal warmup app for singers, voice actors, and anyone who uses their voice professionally. Native iOS app with a built-in piano sampler, 30 exercise patterns, and a music theory engine for generating exercises in any key. Built with SwiftUI, AVFoundation, and GRDB/SQLite — no backend, everything runs locally on device.
 
-**[lukeroes](https://github.com/lukemelnik/lukeroes)** — my artist website, built with TanStack Start. It consumes the Songkeeper API via a generated OpenAPI SDK, so release data flows directly from the production management platform to the public-facing site.
+**[Luke Roes](https://lukeroes.com)** — my artist website, built with TanStack Start. It consumes the Songkeeper API via a generated OpenAPI SDK, so release data flows directly from the production management platform to the public-facing site. Has a full-featured members area similar to Patreon, runs on SQLite with FTS.
 
 ## Other projects
 
