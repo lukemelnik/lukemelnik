@@ -35,5 +35,5 @@ Before code, I spent 10 years making records — writing, producing, mixing, and
 
 ## Get in touch
 
-- [luke@lukemelnik.co](mailto:luke@lukemelnik.co)
-- [lukemelnik.co](https://lukemelnik.co)
+- [luke@lukemelnik.ca](mailto:luke@lukemelnik.ca)
+- [lukemelnik.ca](https://lukemelnik.ca)
